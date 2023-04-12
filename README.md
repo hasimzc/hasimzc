@@ -1,7 +1,26 @@
-### Hi there 👋
+<p align="center">
+  <h1 align="center">Welcome to <a href="https://github.com/hasimzc">Haşim Zafer Çiçek</a>'s Profile 👋</h1>
+</p>
 
-
-- 🔭 I’m currently studying at Hacettepe University
-- 🌱 I’m currently studying on Computer Science
-- ⚡ I am a data science enthusiast
--->
+#### About Me :bird:
+```python
+eda = {
+  pronouns: "he/him",
+  code: 
+        ["Python", "C++", "Java"],
+  interests: 
+            ["python", "machine learning", "deep learning", 
+            "computer vision", "data structures and algorithms", 
+            "chess", "basketball"],
+  technologies: {
+            technologies: ["tensorflow", "pytorch", "opencv"],
+            tools: ["sql", "git"],
+  }
+  links: {
+            linkedin: "https://www.linkedin.com/in/hasim-zafer-cicek/",
+  }
+}
+```
+<h3 align="center">
+<a href="https://hasimzc.github.io/Resume.pdf" style="color:navy;">My Resume</a>
+</h3>
