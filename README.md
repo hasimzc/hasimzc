@@ -7,7 +7,7 @@
 Hasim = {
   pronouns: "he/him",
   code: 
-        ["Python", "C++", "Java"],
+            ["Python", "C++", "Java"],
   interests: 
             ["python", "machine learning", "deep learning", 
             "computer vision", "data structures and algorithms", 
