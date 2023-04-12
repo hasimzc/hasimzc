@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to <a href="https://github.com/hasimzc">Haşim Zafer Çiçek</a>'s Profile 👋</h1>
 </p>
 
-#### About Me :bird:
+#### About Me ♟️:
 ```python
 Hasim = {
   pronouns: "he/him",
