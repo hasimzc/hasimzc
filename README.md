@@ -4,7 +4,7 @@
 
 #### About Me :bird:
 ```python
-eda = {
+Hasim = {
   pronouns: "he/him",
   code: 
         ["Python", "C++", "Java"],
