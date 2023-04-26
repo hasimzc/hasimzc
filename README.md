@@ -18,6 +18,7 @@ Hasim = {
   }
   links: {
             linkedin: "https://www.linkedin.com/in/hasim-zafer-cicek/",
+            leetcode: "https://leetcode.com/hasimzc/"
   }
 }
 ```
