@@ -26,3 +26,6 @@ Hasim = {
 <h3 align="center">
 <a href="https://hasimzc.github.io/Resume.pdf" style="color:navy;">My Resume</a>
 </h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
