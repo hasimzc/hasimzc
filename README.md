@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Hasim Zafer Cicek</h1>
+<h1 align="center">Hi there👋, I'm Hasim Zafer💪 Cicek🌷 </h1>
 <h3 align="center">A passionate senior computer science student.</h3>
 
 - 📫 How to reach me **hasimzafer.cicek@gmail.com**
