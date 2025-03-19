@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **hasimzafer.cicek@gmail.com**
 
-- 📄 My resume [https://hasimzc.github.io/Resume.pdf](https://hasimzc.github.io/Resume.pdf){:target="_blank" rel="noopener noreferrer"}
+- 📄 My resume [https://hasimzc.github.io/Resume.pdf](https://hasimzc.github.io/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
