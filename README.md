@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hasim Zafer Cicek</h1>
-<h3 align="center">A passionate senior computer science student.</h3>
+<h3 align="center">A Junior Software Engineer.</h3>
 
 - 📫 How to reach me **hasimzafer.cicek@gmail.com**
 
